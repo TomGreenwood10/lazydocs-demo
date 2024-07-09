@@ -9,8 +9,7 @@ Todo:
 
 
 def multiply_positive_numbers(a: int, b: int) -> int:
-    """
-    Multiplies 2 numbers.
+    """Multiplies 2 numbers.
 
     Args:
         a: First number.
