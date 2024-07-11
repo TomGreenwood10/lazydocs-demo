@@ -4,7 +4,8 @@
 
 ## Modules
 
-- [`utils`](./utils.md#module-utils): Example of Google style docstrings.
+- [`numberUtils`](./numberUtils.md#module-numberutils): Example of Google style docstrings.
+- [`stringUtils`](./stringUtils.md#module-stringutils): Utility funcitons for strings.
 
 ## Classes
 
@@ -12,6 +13,6 @@
 
 ## Functions
 
-- [`utils.multiply_any_numbers`](./utils.md#function-multiply_any_numbers): Multiplies 2 numbers.
-- [`utils.multiply_positive_numbers`](./utils.md#function-multiply_positive_numbers): Multiplies 2 positive numbers.
-- [`utils.print_full_name`](./utils.md#function-print_full_name): Prints the persons full name.
+- [`numberUtils.multiply_any_numbers`](./numberUtils.md#function-multiply_any_numbers): Multiplies 2 numbers.
+- [`numberUtils.multiply_positive_numbers`](./numberUtils.md#function-multiply_positive_numbers): Multiplies 2 positive numbers.
+- [`stringUtils.print_full_name`](./stringUtils.md#function-print_full_name): Prints the persons full name.
